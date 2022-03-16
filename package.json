@@ -1,0 +1,23 @@
+{
+  "name": "ts-JSONPath",
+  "version": "0.0.1",
+  "description": "support JSONPath in typescript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dubhe/ts-JSONPath.git"
+  },
+  "keywords": [
+    "typescript",
+    "JSONPath"
+  ],
+  "author": "dubhe.yang@gmail.com",
+  "license": "MIT",
+  "peerDependencies": {},
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
