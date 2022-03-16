@@ -1,5 +1,5 @@
 {
-  "name": "ts-JSONPath",
+  "name": "ts-jsonpath",
   "version": "0.0.1",
   "description": "support JSONPath in typescript",
   "main": "index.ts",
